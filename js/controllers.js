@@ -74,7 +74,7 @@ canucksApp.controller('PlayersController', function($scope) {
     {'name': 'Kevin Bieksa',
      'position': 'Defenceman',
      'img': './img/bieksa.jpg',
-     'age': 28,
+     'age': 33,
      'number' : 3},
     {'name': 'Alexander Edler',
      'position': 'Defenceman',
